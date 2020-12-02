@@ -1,0 +1,12 @@
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\bin\Debug\JuegoCuarto.exe.config
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\bin\Debug\JuegoCuarto.exe
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\bin\Debug\JuegoCuarto.pdb
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.Form1.resources
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.Properties.Resources.resources
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.csproj.GenerateResource.Cache
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.exe
+c:\users\sindyvaness\documents\visual studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.pdb
+C:\Users\SINDYVANESS\Documents\Visual Studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.csprojResolveAssemblyReference.cache
+C:\Users\SINDYVANESS\OneDrive - Politécnico Grancolombiano\Documentos\Visual Studio 2015\Projects\JuegoCuarto\JuegoCuarto\bin\Debug\JuegoCuarto.exe.config
+C:\Users\SINDYVANESS\OneDrive - Politécnico Grancolombiano\Documentos\Visual Studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.exe
+C:\Users\SINDYVANESS\OneDrive - Politécnico Grancolombiano\Documentos\Visual Studio 2015\Projects\JuegoCuarto\JuegoCuarto\obj\Debug\JuegoCuarto.pdb
